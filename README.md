@@ -22,3 +22,7 @@ Tampilan Sistem :
 ![Login Sistem Persediaan Obat Tirta Setya](https://github.com/TirtaSetya123/SistemInformasiAkuntansi-Sistem-Persediaan-Obat-Tirta-Setya-/assets/152132868/50940a42-e282-4275-a92f-0204d63f45ad)
 ![Contact Apotek Tirta Setya](https://github.com/TirtaSetya123/SistemInformasiAkuntansi-Sistem-Persediaan-Obat-Tirta-Setya-/assets/152132868/59513e54-7575-4e28-ba51-3a44d902e9bc)
 ![Beranda Apotek Tirta Setya](https://github.com/TirtaSetya123/SistemInformasiAkuntansi-Sistem-Persediaan-Obat-Tirta-Setya-/assets/152132868/e001b286-5c95-4cf4-b615-d642c46f2cbf)
+
+![Screenshot 2023-12-02 214530](https://github.com/TirtaSetya123/SistemInformasiAkuntansi-Sistem-Persediaan-Obat-Tirta-Setya-/assets/152132868/ffc88e1f-de5d-4d4e-9d7f-6f767278359a)
+![Screenshot 2023-12-02 214153](https://github.com/TirtaSetya123/SistemInformasiAkuntansi-Sistem-Persediaan-Obat-Tirta-Setya-/assets/152132868/7b9245fe-ff2a-4b45-acf4-e7e5b280b452)
+![image](https://github.com/TirtaSetya123/SistemInformasiAkuntansi-Sistem-Persediaan-Obat-Tirta-Setya-/assets/152132868/29a4aa43-0b44-424f-8f26-93b2a1afa387)
