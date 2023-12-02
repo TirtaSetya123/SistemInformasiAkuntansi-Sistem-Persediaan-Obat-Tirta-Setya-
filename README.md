@@ -8,3 +8,5 @@ Tampilan Sistem :
 ![s3](https://user-images.githubusercontent.com/98314457/150763987-93f4e9c0-6cef-4a13-9c20-54eedef77ba6.png)
 ![s4](https://user-images.githubusercontent.com/98314457/150763993-c8ecda02-5426-44f7-9a49-ba8666c40d88.png)
 ![s5](https://user-images.githubusercontent.com/98314457/150763995-b6d7907c-64a3-4e8c-a005-2d70a96ade8a.png)
+
+![Flowchart Tirta Setya Wicaksana drawio (1)](https://github.com/TirtaSetya123/SistemInformasiAkuntansi-Sistem-Persediaan-Obat-Tirta-Setya-/assets/152132868/d11b7dd5-97e0-4ef9-8388-00b22314f962)
